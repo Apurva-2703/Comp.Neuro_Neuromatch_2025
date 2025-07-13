@@ -12,6 +12,7 @@ Machine Learning: Day 2-5
 Dynamical Systems: Day 12-14
 
 Stochastic Processes: 16-20
+
 ---
 
 Index:
