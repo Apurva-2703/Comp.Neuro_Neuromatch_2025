@@ -6,8 +6,11 @@ This repository contains my personal Neuromatch Academy-2025 notebooks, tutorial
 The topics in this course have been assigned as per the following list:
 
 Modeling: Day 1,6
+
 Machine Learning: Day 2-5
+
 Dynamical Systems: Day 12-14
+
 Stochastic Processes: 16-20
 ---
 
