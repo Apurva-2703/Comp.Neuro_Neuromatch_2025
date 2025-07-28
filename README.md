@@ -2,11 +2,11 @@
 
 This repository contains my personal Neuromatch Academy-2025 notebooks, tutorials, and code reflections. The purpose is to build an intuitive reference toolkit I can revisit for future modeling projects.
 
-> ⚠️ **Note:** If you're seeing a rendering error like `'state' key missing from metadata.widgets'`, it's just GitHub being annoying.
-> You can still:
-> - ✅ Download and run this notebook in Jupyter or Colab
-> - ✅ Open it in Codespaces or Binder (see links below)
-> - ❌ But GitHub preview won’t show interactive widgets 😞
+⚠️ **Note:** If you're seeing a rendering error like `'state' key missing from metadata.widgets'`, it's just GitHub being annoying.
+You can still:
+- ✅ Download and run this notebook in Jupyter or Colab
+- ✅ Open it in Codespaces or Binder (see links below)
+- ❌ But GitHub preview won’t show interactive widgets 😞
 
 ---
 The topics in this course have been assigned as per the following list:
