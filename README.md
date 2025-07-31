@@ -29,7 +29,8 @@ Day 2 - Model Fitting (Linear regression, MSE, MLE, Parameter optimization, cros
 
 Day 3 - Generalized Linear Models (GLMs for Encoding, Classifiers and Regularizers)
 
-Day 4 - Dimensionality Reduction (PCA, non-linear dimensionality reduction, dimensionality reconstruction)
+Day 4 - Dimensionality Reduction (PCA, non-linear dimensionality reduction, Dimensionality reconstruction)
 
+Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models)
 
 Original course content: https://github.com/NeuromatchAcademy/course-content
