@@ -5,32 +5,36 @@ This repository contains my personal Neuromatch Academy-2025 notebooks, tutorial
 ⚠️ **Note:** If you're seeing a rendering error like `'state' key missing from metadata.widgets'`, it's just GitHub being annoying.
 You can still:
 - ✅ Download and run this notebook in Jupyter or Colab
-- ✅ Open it in Codespaces or Binder (see links below)
 - ❌ But GitHub preview won’t show interactive widgets 😞
 
 ---
 The topics in this course have been assigned as per the following list:
 
-Modeling: Day 1,6
+Modeling: Day 1
 
-Machine Learning: Day 2-5
+Machine Learning: Days 2-5
 
-Dynamical Systems: Day 12-14
+Dynamical Systems: Days 7-9
 
-Stochastic Processes: 16-20
+Stochastic Processes: Days 11-15
 
+Project Work: Days 6, 10
 ---
 
 Index:
 
-Day 1 - Model types (Descriptive, Mechanistic, Normative)
+Day 1 - Model Types (Descriptive, Mechanistic, Normative)
 
-Day 2 - Model Fitting (Linear regression, MSE, MLE, Parameter optimization, cross-validation )
+Day 2 - Model Fitting (Linear regression, MSE, MLE, Parameter Optimization, Cross-Validation )
 
 Day 3 - Generalized Linear Models (GLMs for Encoding, Classifiers and Regularizers)
 
-Day 4 - Dimensionality Reduction (PCA, non-linear dimensionality reduction, Dimensionality reconstruction)
+Day 4 - Dimensionality Reduction (PCA, Non-Linear Dimensionality Reduction, Dimensionality Reconstruction)
 
-Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models)
+Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models). Bonus Tutorial: Deep Diving into Decoding and Encoding.
+
+Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications)** - To be added once the rest of the content is complete.
+
+Day 7 - Linear Systems (Linear Dynamical Systems, Markov Processes, Combining Determinism and Stochasticity, Autoregressive Models)
 
 Original course content: https://github.com/NeuromatchAcademy/course-content
