@@ -11,13 +11,9 @@ You can still:
 The topics in this course have been assigned as per the following list:
 
 Modeling: Day 1
-
 Machine Learning: Days 2-5
-
 Dynamical Systems: Days 7-9
-
 Stochastic Processes: Days 11-15
-
 Project Work: Days 6, 10
 ---
 
@@ -31,7 +27,7 @@ Day 3 - Generalized Linear Models (GLMs for Encoding, Classifiers and Regularize
 
 Day 4 - Dimensionality Reduction (PCA, Non-Linear Dimensionality Reduction, Dimensionality Reconstruction)
 
-Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models). Bonus Tutorial: Deep Diving into Decoding and Encoding.
+Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models). Bonus Tutorial**: Deep Diving into Decoding and Encoding.
 
 Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications)** - To be added once the rest of the content is complete.
 
