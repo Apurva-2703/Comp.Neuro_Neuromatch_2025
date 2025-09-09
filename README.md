@@ -10,11 +10,11 @@ You can still:
 ---
 The topics in this course have been assigned as per the following list:
 
-Modeling: Day 1
-Machine Learning: Days 2-5
-Dynamical Systems: Days 7-9
-Stochastic Processes: Days 11-15
-Project Work: Days 6, 10
+* Modeling: Day 1
+* Machine Learning: Days 2-5
+* Dynamical Systems: Days 7-9
+* Stochastic Processes: Days 11-15
+* Project Work: Days 6, 10
 ---
 
 Index:
