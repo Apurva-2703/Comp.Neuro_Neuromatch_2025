@@ -34,3 +34,7 @@ Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications)** - To be
 Day 7 - Linear Systems (Linear Dynamical Systems, Markov Processes, Combining Determinism and Stochasticity, Autoregressive Models)
 
 Original course content: https://github.com/NeuromatchAcademy/course-content
+
+Supplementary material:
+* 3blue1Brown playlist on Essentials of Linear Algebra and Essentials of Differential Equations
+* 
