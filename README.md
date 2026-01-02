@@ -33,8 +33,15 @@ Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications)** - To be
 
 Day 7 - Linear Systems (Linear Dynamical Systems, Markov Processes, Combining Determinism and Stochasticity, Autoregressive Models)
 
+Day 8 - Biological Neuron Models (LIF model, Effects of Input Correlation, Synaptic Transmission)
+
+Bonus Tutorial - Spike-Timing Dependent Plastivity** - To be added once the rest of the content is complete.
+
+
+----
+
 Original course content: https://github.com/NeuromatchAcademy/course-content
 
 Supplementary material:
 * 3blue1Brown playlist on Essentials of Linear Algebra and Essentials of Differential Equations
-* 
+* Suggester further readings per tutorial on the Neuromatch Comp. Neuro website
