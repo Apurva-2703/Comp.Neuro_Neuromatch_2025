@@ -27,15 +27,18 @@ Day 3 - Generalized Linear Models (GLMs for Encoding, Classifiers and Regularize
 
 Day 4 - Dimensionality Reduction (PCA, Non-Linear Dimensionality Reduction, Dimensionality Reconstruction)
 
-Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models). Bonus Tutorial**: Deep Diving into Decoding and Encoding.
+Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models) 
 
-Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications)** - To be added once the rest of the content is complete.
+Bonus Tutorial - Deep Diving into Decoding and Encoding - To be added once the rest of the content is complete.
+Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications) - To be added once the rest of the content is complete.
 
 Day 7 - Linear Systems (Linear Dynamical Systems, Markov Processes, Combining Determinism and Stochasticity, Autoregressive Models)
 
 Day 8 - Biological Neuron Models (LIF model, Effects of Input Correlation, Synaptic Transmission)
 
-Bonus Tutorial - Spike-Timing Dependent Plasticity** - To be added once the rest of the content is complete.
+Bonus Tutorial - Spike-Timing Dependent Plasticity - To be added once the rest of the content is complete.
+
+Day 9 - Dynamic Networks (Neural rates model, Wilson-Cowan model)**: Extending the Wilson-Cowan model
 
 
 ----
