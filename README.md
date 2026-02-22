@@ -42,6 +42,9 @@ Day 9 - Dynamic Networks (Neural rates model, Wilson-Cowan model)**
 Day 11 - Bayesian Decisions (Bayes with a Binary Hidden State, Bayes inference and decision with continuous hidden state)
 * Bonus Tutorial - Fitting to Data - To be added once the rest of the content is complete.
 
+Day 12 - Hidden Dynamics (Sequential Probability Ratio Test, Hidden Markov Model, Kalman Filter)
+* Bonus Tutorials - More on Kalman Filters and Expectation Maximization For Spiking Neurons - To be added once the rest of the content is complete.
+
 ----
 
 Original course content: https://github.com/NeuromatchAcademy/course-content
