@@ -51,4 +51,4 @@ Original course content: https://github.com/NeuromatchAcademy/course-content
 
 Supplementary material:
 * 3blue1Brown playlist on Essentials of Linear Algebra and Essentials of Differential Equations
-* Suggester further readings per tutorial on the Neuromatch Comp. Neuro website
+* Suggested further readings per tutorial on the Neuromatch Comp. Neuro website
