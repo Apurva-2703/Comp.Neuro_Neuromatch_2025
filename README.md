@@ -45,6 +45,8 @@ Day 11 - Bayesian Decisions (Bayes with a Binary Hidden State, Bayes inference a
 Day 12 - Hidden Dynamics (Sequential Probability Ratio Test, Hidden Markov Model, Kalman Filter)
 * Bonus Tutorials - More on Kalman Filters and Expectation Maximization For Spiking Neurons - To be added once the rest of the content is complete.
 
+Day 13 - Optimal Control (Discrete States, Continuous States)
+
 ----
 
 Original course content: https://github.com/NeuromatchAcademy/course-content
