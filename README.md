@@ -8,7 +8,7 @@ You can still:
 - ❌ But GitHub preview won’t show interactive widgets 😞
 
 ---
-The topics in this course have been assigned as per the following list:
+The topics in this course for the 2025 edition were assigned as per the following list:
 
 * Modeling: Day 1
 * Machine Learning: Days 2-5
@@ -46,6 +46,10 @@ Day 12 - Hidden Dynamics (Sequential Probability Ratio Test, Hidden Markov Model
 * Bonus Tutorials - More on Kalman Filters and Expectation Maximization For Spiking Neurons - To be added once the rest of the content is complete.
 
 Day 13 - Optimal Control (Discrete States, Continuous States)
+
+Day 14 - Reinforcement Learning (Learning to predict, Learning to Act, Q-learning, and Model-based reinforcement learning)
+
+Day 15 - Network Causality (Interventions, Correlations, Simultaneous fitting/regression, Instrumental Variables)
 
 ----
 
