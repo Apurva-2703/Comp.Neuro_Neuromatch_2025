@@ -8,53 +8,40 @@ You can still:
 - ❌ But GitHub preview won’t show interactive widgets 😞
 
 ---
-The topics in this course for the 2025 edition were assigned as per the following list:
+## 🗺️ Curriculum Overview
 
-* Modeling: Day 1
-* Machine Learning: Days 2-5
-* Dynamical Systems: Days 7-9
-* Stochastic Processes: Days 11-15
-* Project Work: Days 6, 10
+| Module | Focus | Days |
+| :--- | :--- | :--- |
+| **Modeling** | Foundations & Frameworks | Day 1 |
+| **Machine Learning** | Fitting, GLMs, & Deep Learning | Days 2–5 |
+| **Dynamical Systems** | Linear Systems & Neuron Models | Days 7–9 |
+| **Stochastic Processes** | Bayesian Decisions & Reinforcement Learning | Days 11–15 |
+| **Project Work** | Implementation & Collaboration | Days 6 & 10 |
+
 ---
+## 📇 Course Index
 
-Index:
+### 🧠 Phase 1: Machine Learning & Encoding
+* **Day 1: Model Types** — [Summary PDF](./Summary_PDFs/Day_1_Model_Types.pdf) | Descriptive, Mechanistic, & Normative models.
+* **Day 2: Model Fitting** — [Summary PDF](./Summary_PDFs/Day_2_Model_Fitting.pdf) | Linear regression, MSE, MLE, Optimization, Cross-Val.
+* **Day 3: GLMs** — [Summary PDF](./Summary_PDFs/Day_3_GLMs.pdf) | Generalized Linear Models for Encoding, Classifiers, Regularizers.
+* **Day 4: Dimensionality Reduction** — [Summary PDF](./Summary_PDFs/Day_4_Dimensionality_Reduction.pdf) | PCA, Non-Linear DR, Reconstruction.
+* **Day 5: Deep Learning** — [Summary PDF](./Summary_PDFs/Day_5_DL.pdf) | Decoding, CNNs, Normative Encoding Models.
 
-Day 1 - Model Types (Descriptive, Mechanistic, Normative)
+### 📉 Phase 2: Dynamics & Biological Neurons
+* **Day 7: Linear Systems** — [Summary PDF](./Summary_PDFs/Day_7_Linear_Systems.pdf) | LDS, Markov Processes, Determinism vs. Stochasticity.
+* **Day 8: Neuron Models** — [Summary PDF](./Summary_PDFs/Day_8_Biological_Neuron_Models.pdf) | LIF Model, Input Correlation, Synaptic Transmission.
+* **Day 9: Dynamic Networks** — [Summary PDF](./Summary_PDFs/Day_9_Dynamic_Networks.pdf) | Neural rates, Wilson-Cowan model.
 
-Day 2 - Model Fitting (Linear regression, MSE, MLE, Parameter Optimization, Cross-Validation )
-
-Day 3 - Generalized Linear Models (GLMs for Encoding, Classifiers and Regularizers)
-
-Day 4 - Dimensionality Reduction (PCA, Non-Linear Dimensionality Reduction, Dimensionality Reconstruction)
-
-Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models) 
-* Bonus Tutorial - Deep Diving into Decoding and Encoding
-* Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications)
-
-Day 7 - Linear Systems (Linear Dynamical Systems, Markov Processes, Combining Determinism and Stochasticity, Autoregressive Models)
-
-Day 8 - Biological Neuron Models (LIF model, Effects of Input Correlation, Synaptic Transmission)
-* Bonus Tutorial - Spike-Timing Dependent Plasticity
-
-Day 9 - Dynamic Networks (Neural rates model, Wilson-Cowan model)**
-* Bonus Tutorial - Extending the Wilson-Cowan model
-
-Day 11 - Bayesian Decisions (Bayes with a Binary Hidden State, Bayes inference and decision with continuous hidden state)
-* Bonus Tutorial - Fitting to Data
-
-Day 12 - Hidden Dynamics (Sequential Probability Ratio Test, Hidden Markov Model, Kalman Filter)
-* Bonus Tutorials - More on Kalman Filters and Expectation Maximization For Spiking Neurons
-
-Day 13 - Optimal Control (Discrete States, Continuous States)
-
-Day 14 - Reinforcement Learning (Learning to predict, Learning to Act, Q-learning, and Model-based reinforcement learning)
-
-Day 15 - Network Causality (Interventions, Correlations, Simultaneous fitting/regression, Instrumental Variables)
+### 🎲 Phase 3: Inference & Control
+* **Day 11: Bayesian Decisions** — [Summary PDF](./Summary_PDFs/Day_11_Bayesian_Decisions.pdf) | Binary & Continuous Hidden States, Data Fitting.
+* **Day 12: Hidden Dynamics** — [Summary PDF](./Summary_PDFs/Day_12_Hidden_Dynamics.pdf) | SPRT, Hidden Markov Models (HMM), Kalman Filters.
+* **Day 13: Optimal Control** — [Summary PDF](./Summary_PDFs/Day_13_Optimal_Control.pdf) | Discrete vs. Continuous States.
+* **Day 14: Reinforcement Learning** — [Summary PDF](./Summary_PDFs/Day_14_Reinforcement_Learning.pdf) | Q-Learning, Model-based RL, Prediction vs. Action.
+* **Day 15: Network Causality** — [Summary PDF](./Summary_PDFs/Day_15_Network_Causality.pdf) | Interventions, Instrumental Variables, Simultaneous Fitting.
 
 ----
-
-Original course content: https://github.com/NeuromatchAcademy/course-content
-
-Supplementary material:
-* 3blue1Brown playlist on Essentials of Linear Algebra and Essentials of Differential Equations
-* Suggested further readings per tutorial on the Neuromatch Comp. Neuro website
+## 📚 Resources & References
+* **Official Course:** [Neuromatch Academy Content](https://github.com/NeuromatchAcademy/course-content)
+* **Math Fundamentals:** [3Blue1Brown: Essentials of Linear Algebra & Calculus](https://www.youtube.com/3blue1brown)
+* **Reading List:** Further readings available via the [Neuromatch Comp. Neuro Portal](https://compneuro.neuromatch.io/).
