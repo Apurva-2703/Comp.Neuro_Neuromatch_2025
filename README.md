@@ -24,21 +24,27 @@ You can still:
 ### 🧠 Phase 1: Machine Learning & Encoding
 * **Day 1: Model Types** — [Summary PDF](./Summary_PDFs/Day_1_Model_Types.pdf) | Descriptive, Mechanistic, & Normative models.
 * **Day 2: Model Fitting** — [Summary PDF](./Summary_PDFs/Day_2_Model_Fitting.pdf) | Linear regression, MSE, MLE, Optimization, Cross-Val.
-* **Day 3: GLMs** — [Summary PDF](./Summary_PDFs/Day_3_GLMs.pdf) | Generalized Linear Models for Encoding, Classifiers, Regularizers.
+* **Day 3: GLMs** — [Summary PDF](./Summary_PDFs/Day_3_GLMs.pdf) | GLMs for Encoding, Classifiers and Regularizers.
 * **Day 4: Dimensionality Reduction** — [Summary PDF](./Summary_PDFs/Day_4_Dimensionality_Reduction.pdf) | PCA, Non-Linear DR, Reconstruction.
-* **Day 5: Deep Learning** — [Summary PDF](./Summary_PDFs/Day_5_DL.pdf) | Decoding, CNNs, Normative Encoding Models.
+* **Day 5: Deep Learning** — [Summary PDF](./Summary_PDFs/Day_5_DL.pdf) | Decoding, CNN, Normative Encoding Models.
+    * ✨ *Bonus: Deep Diving into Decoding and Encoding*
+    * ✨ *Bonus: Autoencoders (Introduction, Extensions, Applications)*
 
 ### 📉 Phase 2: Dynamics & Biological Neurons
-* **Day 7: Linear Systems** — [Summary PDF](./Summary_PDFs/Day_7_Linear_Systems.pdf) | LDS, Markov Processes, Determinism vs. Stochasticity.
-* **Day 8: Neuron Models** — [Summary PDF](./Summary_PDFs/Day_8_Biological_Neuron_Models.pdf) | LIF Model, Input Correlation, Synaptic Transmission.
-* **Day 9: Dynamic Networks** — [Summary PDF](./Summary_PDFs/Day_9_Dynamic_Networks.pdf) | Neural rates, Wilson-Cowan model.
+* **Day 7: Linear Systems** — [Summary PDF](./Summary_PDFs/Day_7_Linear_Systems.pdf) | LDS, Markov Processes, Autoregressive Models.
+* **Day 8: Neuron Models** — [Summary PDF](./Summary_PDFs/Day_8_Biological_Neuron_Models.pdf) | LIF model, Input Correlation, Synaptic Transmission.
+    * ✨ *Bonus: Spike-Timing Dependent Plasticity (STDP)*
+* **Day 9: Dynamic Networks** — [Summary PDF](./Summary_PDFs/Day_9_Dynamic_Networks.pdf) | Neural rates model, Wilson-Cowan model.
+    * ✨ *Bonus: Extending the Wilson-Cowan model*
 
 ### 🎲 Phase 3: Inference & Control
-* **Day 11: Bayesian Decisions** — [Summary PDF](./Summary_PDFs/Day_11_Bayesian_Decisions.pdf) | Binary & Continuous Hidden States, Data Fitting.
-* **Day 12: Hidden Dynamics** — [Summary PDF](./Summary_PDFs/Day_12_Hidden_Dynamics.pdf) | SPRT, Hidden Markov Models (HMM), Kalman Filters.
-* **Day 13: Optimal Control** — [Summary PDF](./Summary_PDFs/Day_13_Optimal_Control.pdf) | Discrete vs. Continuous States.
-* **Day 14: Reinforcement Learning** — [Summary PDF](./Summary_PDFs/Day_14_Reinforcement_Learning.pdf) | Q-Learning, Model-based RL, Prediction vs. Action.
-* **Day 15: Network Causality** — [Summary PDF](./Summary_PDFs/Day_15_Network_Causality.pdf) | Interventions, Instrumental Variables, Simultaneous Fitting.
+* **Day 11: Bayesian Decisions** — [Summary PDF](./Summary_PDFs/Day_11_Bayesian_Decisions.pdf) | Binary & Continuous Hidden States.
+    * ✨ *Bonus: Fitting to Data*
+* **Day 12: Hidden Dynamics** — [Summary PDF](./Summary_PDFs/Day_12_Hidden_Dynamics.pdf) | SPRT, Hidden Markov Model, Kalman Filter.
+    * ✨ *Bonus: EM For Spiking Neurons & Advanced Kalman Filters*
+* **Day 13: Optimal Control** — [Summary PDF](./Summary_PDFs/Day_13_Optimal_Control.pdf) | Discrete and Continuous States.
+* **Day 14: Reinforcement Learning** — [Summary PDF](./Summary_PDFs/Day_14_Reinforcement_Learning.pdf) | Q-learning, Model-based RL, Prediction vs. Action.
+* **Day 15: Network Causality** — [Summary PDF](./Summary_PDFs/Day_15_Network_Causality.pdf) | Interventions, Instrumental Variables, Simultaneous fitting.
 
 ----
 ## 📚 Resources & References
