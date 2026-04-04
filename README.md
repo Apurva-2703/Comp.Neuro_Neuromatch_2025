@@ -28,22 +28,22 @@ Day 3 - Generalized Linear Models (GLMs for Encoding, Classifiers and Regularize
 Day 4 - Dimensionality Reduction (PCA, Non-Linear Dimensionality Reduction, Dimensionality Reconstruction)
 
 Day 5 - Deep Learning (Decoding, CNN, Normative Encoding Models) 
-* Bonus Tutorial - Deep Diving into Decoding and Encoding - To be added once the rest of the content is complete.
-* Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications) - To be added once the rest of the content is complete.
+* Bonus Tutorial - Deep Diving into Decoding and Encoding
+* Bonus Tutorial - Autoencoders (Introduction, Extensions, Applications)
 
 Day 7 - Linear Systems (Linear Dynamical Systems, Markov Processes, Combining Determinism and Stochasticity, Autoregressive Models)
 
 Day 8 - Biological Neuron Models (LIF model, Effects of Input Correlation, Synaptic Transmission)
-* Bonus Tutorial - Spike-Timing Dependent Plasticity - To be added once the rest of the content is complete.
+* Bonus Tutorial - Spike-Timing Dependent Plasticity
 
 Day 9 - Dynamic Networks (Neural rates model, Wilson-Cowan model)**
-* Bonus Tutorial - Extending the Wilson-Cowan model - To be added once the rest of the content is complete.
+* Bonus Tutorial - Extending the Wilson-Cowan model
 
 Day 11 - Bayesian Decisions (Bayes with a Binary Hidden State, Bayes inference and decision with continuous hidden state)
-* Bonus Tutorial - Fitting to Data - To be added once the rest of the content is complete.
+* Bonus Tutorial - Fitting to Data
 
 Day 12 - Hidden Dynamics (Sequential Probability Ratio Test, Hidden Markov Model, Kalman Filter)
-* Bonus Tutorials - More on Kalman Filters and Expectation Maximization For Spiking Neurons - To be added once the rest of the content is complete.
+* Bonus Tutorials - More on Kalman Filters and Expectation Maximization For Spiking Neurons
 
 Day 13 - Optimal Control (Discrete States, Continuous States)
 
